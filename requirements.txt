@@ -60,8 +60,6 @@ propcache==0.2.1
 psutil==7.2.2
 pyaes==1.6.1
 pyarmor==7.7.0
-pyarmor.cli.core==7.6.4
-pyarmor.cli.core.android==7.6.4
 pyasn1==0.6.1
 pycparser==2.22
 pydantic==2.10.6
